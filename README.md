@@ -1,5 +1,5 @@
 # The Truth Behind Global Warming
-## 164-year History of Hurricanes
+# A 164-year History of Hurricanes
 Global Warming with its effects on human lives and other creatures on our planet has always been a controversial topic for the past many decades and no doubt would remain one of the hottest topics for many more years to come. One of the infamous effects of Global Warming is devastating storms. NASA claimed that due to Global Warming, Hurricanes will become stronger and more intense. Whether this is true or not, let the data speak the truth.
 
 ![Image description](NASA_Glb_Wrmg.png)
