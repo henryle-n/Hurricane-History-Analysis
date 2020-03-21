@@ -13,7 +13,7 @@ Sources utilized for data, articles, and topic researches:
    - www.Kaggle.com
 
 ## Workflow:
-- "Team 4 Pseudo Codes.docx" : overview of project tasks and assigned members for each tasks
+- "Team 4 Pseudo Codes.docx" : overview of project tasks and assigned members for each task
 
 ## Data Files: (folder: Database)
 - Raw Atlantic Storm Data.csv (original downloaded 200 years hurricane data on Kaggle)
