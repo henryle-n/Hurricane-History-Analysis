@@ -16,13 +16,13 @@ Sources utilized for data, articles, and topic researches:
 - "Team 4 Pseudo Codes.docx" : overview of project tasks and assigned members for each task
 
 ## Data Files: (folder: Database)
-- Raw Atlantic Storm Data.csv (original downloaded 200 years hurricane data on Kaggle)
-- Raw Atlantic Storm Data.csv (original downloaded 200 years hurricane data on Kaggle)
+- Raw Atlantic Storm Data.csv (original downloaded 164 years hurricane data on Kaggle)
+- Raw Atlantic Storm Data.csv (original downloaded 164 years hurricane data on Kaggle)
 - new_data_atlantic.csv (final version of csv file post data-cleaning, ready for analysis)
 
 ## Jupyter Notebooks:
-- Data_Cleaning_Codes : Processing and cleaning up "*.csv" raw data
-- Export to a new "*.csv" file for further team analysis 
+- Data_Cleaning_Codes : for processing and cleaning up ".csv" raw data
+- Export to a new ".csv" file for further team analysis 
    
 - OJ_Work.ipynb and OJ_Plots:   
    - Create PiePlot of Top 10 Hurricane Active Duration
