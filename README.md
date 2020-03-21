@@ -5,7 +5,7 @@ Global Warming with its effects on human lives and other creatures on our planet
 
 
 # Overview
-In this repository, there are total 4 total Jupyter Notebooks which were utilized for data processing & cleaning up, analyzing and visualizations of tropical storms/ hurricanes data from 1851 – 2015.
+In this repository, there are total 4 total Jupyter Notebooks which were utilized for processing, cleaning up, analyzing and visualizations of tropical storms/ hurricanes data from 1851 – 2015.
 
 Sources usage for data, articles, and topic researches:
    - www.NASA.gov
