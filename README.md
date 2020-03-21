@@ -3,3 +3,6 @@ Repository for finding the final answer of a million dollar question: Did CO2 ca
 
 ## Data Files: 
 - atlantic.csv
+
+## Jupyter Notebook:
+- Oj's.ipynb
