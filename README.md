@@ -1,5 +1,5 @@
 # The Truth Behind Global Warming
-Global Warming with its effects on human lives and other creatures on our planet has always been a controversial topic for the past many decades and will continue for many more to come. One of the infamous effects of Global Warming is devastating storms. NASA claimed that due to Global Warming, Hurricanes will become stronger and more intense. Whether this is true or not, let the data speak the truth.
+Global Warming with its effects on human lives and other creatures on our planet has always been a controversial topic for the past many decades and no doubt would remain one of the hottest topics for many more years to come. One of the infamous effects of Global Warming is devastating storms. NASA claimed that due to Global Warming, Hurricanes will become stronger and more intense. Whether this is true or not, let the data speak the truth.
 
 In this repository, there are total 4 total Jupyter Notebooks which were utilized for data processing & cleaning up, analyzing and visualizations of tropical storms/ hurricanes data from 1851 – 2015.
 
