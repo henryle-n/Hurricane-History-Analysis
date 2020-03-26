@@ -17,7 +17,7 @@ Sources utilized for data, articles, and topic researches:
 
 ## Data Files: (folder: Database)
 - Raw Atlantic Storm Data.csv (original downloaded 164 years hurricane data on Kaggle)
-- Raw Atlantic Storm Data.csv (original downloaded 164 years hurricane data on Kaggle)
+- Raw PAcific Storm Data.csv (original downloaded 164 years hurricane data on Kaggle)
 - new_data_atlantic.csv (final version of csv file post data-cleaning, ready for analysis)
 
 ## Jupyter Notebooks:
