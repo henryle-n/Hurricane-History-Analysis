@@ -12,15 +12,15 @@ Sources utilized for data, articles, and topic researches:
    - www.NOAA.gov
    - www.Kaggle.com
 
-## Workflow:
+## Workflow
 - "Team 4 Pseudo Codes.docx" : overview of project tasks and assigned members for each task
 
-## Data Files: (folder: Database)
+## Data Files (folder: Database)
 - Raw Atlantic Storm Data.csv (original downloaded 164 years hurricane data on Kaggle)
 - Raw PAcific Storm Data.csv (original downloaded 164 years hurricane data on Kaggle)
 - new_data_atlantic.csv (final version of csv file post data-cleaning, ready for analysis)
 
-## Jupyter Notebooks:
+## Jupyter Notebooks
 - Data_Cleaning_Codes : for processing and cleaning up ".csv" raw data
 - Export to a new ".csv" file for further team analysis 
    
@@ -40,13 +40,13 @@ Sources utilized for data, articles, and topic researches:
    - Create bar chart for observing tropical storm events in the past 50 years (1964 - 2015)
    - Create "gmaps" plot with add-on layer for showing locations of all hurricanes for the past 10 years (2005 - 2015)
 
-## Project Team Presentation:
+## Project Team Presentation
 - File name : "Team_4_Proj_1.pptx"
 - Overview of project ideas, teammembers, agenda
 - Summary of results from all analyses performed, including data visualization 
 - Conclusions, Challenges and Ideas for more future in-depth analyses
 
-## Other Files: 
+## Other Files 
 NASA_Glb_Wrmg.png : NASA article snapshot 
        
 
