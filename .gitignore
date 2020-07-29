@@ -3,6 +3,7 @@ GrpbyIDwithBin.csv
 test.ipynb
 AtlanticRun
 Hurricanes
+.ipynb_checkpoints
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
