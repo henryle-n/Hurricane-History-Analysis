@@ -1,19 +1,27 @@
-# The Truth Behind Global Warming | 164-year History of Hurricanes
-Global Warming with its effects on human lives and other creatures on our planet has always been a controversial topic for the past many decades and no doubt would remain one of the hottest topics for many more years to come. One of the infamous effects of Global Warming is devastating storms. NASA claimed that due to Global Warming, "Hurricanes will become stronger and more intense". Whether this is true or not, let's explore and ask data to speak the truth.
+# Global Warming | 164-year History of Hurricanes
+## Background
+Global Warming with its effects on human lives and other creatures on planet Earth has always been a controversial topic for the past many decades and no doubt would remain one of the hottest topics for many more years to come. One of the infamous effects of Global Warming is devastating storms. NASA claimed that due to Global Warming, "Hurricanes will become stronger and more intense". Whether this is true or not, let's explore and ask data to speak the truth.
 
-![Image description](NASA_Glb_Wrmg.png)
+In this project, tropical storms/ hurricanes data from 1851 – 2015 were processed, cleaned, analyzed and visualized by utilizing Python..
+
+![Image description](./Images/NASA-post.png)
 
 
-# Overview
-In this repository, there are total 4 total Jupyter Notebooks which were utilized for processing, cleaning up, analyzing and visualizations of tropical storms/ hurricanes data from 1851 – 2015.
-
+## Data Sources
 Sources utilized for data, articles, and topic researches:
    - www.NASA.gov
    - www.NOAA.gov
    - www.Kaggle.com
 
-## Workflow
-- "Team 4 Pseudo Codes.docx" : overview of project tasks and assigned members for each task
+## Table of Contents
+Folders / Files | Descriptions
+--------------- | ------------
+Database | original storm data downloaded from Kaggle
+Images | contains plots made by each teammates for different analysis & NASA article snapshot
+Jupyter Notebooks | all JPNB used in this project for data clean up, and chart creation
+Project Planning | Word document to lay-out project steps and processes
+Final Presentation.pptx | team final presentation about findings after completing all analyses
+
 
 ## Data Files (folder: Database)
 - Raw Atlantic Storm Data.csv (original downloaded 164 years hurricane data on Kaggle)
@@ -46,8 +54,5 @@ Sources utilized for data, articles, and topic researches:
 - Summary of results from all analyses performed, including data visualization 
 - Conclusions, Challenges and Ideas for more future in-depth analyses
 
-## Other Files 
-NASA_Glb_Wrmg.png : NASA article snapshot 
-       
 
 
