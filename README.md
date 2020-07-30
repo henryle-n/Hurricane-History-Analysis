@@ -25,15 +25,15 @@ Project Planning | Word document to lay-out project steps and processes
 Final Presentation.pptx | team final presentation about findings after completing all analyses
 
 ## 4. Languages, Software & Technologies
-* Languages:
+* **Languages**:
   * Python
   * Shell/ Bash Scripts
-* Libraries/ Modules:
+* **Libraries**/ **Modules**:
   * Pandas | Matplotlib | Numpy | Scipy | Seaborn | Gmaps | Datetime
-* Operating Systems:
+* **Operating** **Systems**:
   * Windows 10 Pro | macOS Mojave
-* Software | Applications:
-  * Visual Studio Code | Jupyter Notebook | MS PowerPoint | Google Chrome v.84 | Git Bash
+* **Software** | **Applications**:
+  * Visual Studio Code | Jupyter Notebook | MS PowerPoint | Google Chrome v. 84 | Git Bash
 
 ## 5. Jupyter Notebooks
 * **Data_Cleaning_Codes**: raw data processing and cleaning. Cleaned data then exported for further analyses.
